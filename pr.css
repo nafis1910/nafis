@@ -1,0 +1,66 @@
+.hml
+{ font-style: initial;
+color:black; 
+text-align: center;
+
+} 
+.pr
+ {
+ 
+    font-style: initial;
+    color:green;
+    font size: 25px;
+    float: center;
+    
+
+} 
+.pz
+{
+    font-style: initial;
+    color:brown;
+    font size: 25px;
+    float: center;
+} 
+.pm
+{
+
+    font-style: initial;
+    color:rgba(255, 136, 0, 0.925);
+    font size: 25px;
+    text-align: center;
+} 
+.pl
+{
+    font-style: initial;
+    color:rgba(255, 0, 64, 0.925);
+    font size: 25px;
+    text-align: center;
+} 
+.pj
+{ 
+    font-style: initial;
+    color:rgb(0, 247, 255);
+    font size: 25px;
+    text-align: :left;
+} 
+
+.pic
+{
+    position: inherit; 
+ border-top-right-radius: 5px;
+ 
+    height: 400px;
+    width: 500px;
+    text-align: center;
+    float: right;
+} 
+.lin
+{ 
+    position: absolute;
+float: center;
+border: khaki; 
+} 
+.li
+{
+
+}
